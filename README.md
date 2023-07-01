@@ -1,3 +1,6 @@
+Trivia api kullanan bir quizz uygulaması.
+Cevapladığınız soruların sonuçlarını en son ekranda görüntüleyebiliyorsunuz.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
